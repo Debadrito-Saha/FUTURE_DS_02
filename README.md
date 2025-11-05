@@ -1,14 +1,18 @@
 📘 Marketing Campaign Performance Dashboard
 🔍 Project Overview:
+
 This project analyzes marketing campaign effectiveness using interactive Power BI dashboards.
 The report highlights key performance indicators (KPIs), campaign-wise engagement, ROI insights, and customer segmentation patterns.
 The objective is to uncover data-driven insights that can help improve marketing strategies and maximize returns.
 
 🧠 Objectives
+
 (i)Evaluate campaign response rates and conversion performance.
 
 (ii)Identify top-performing campaigns and customer demographics.
+
 (iii)Assess ROI across income segments and spending categories.
+
 (iv)Provide actionable recommendations to improve future campaigns.
 
 🗂 Dataset Overview:

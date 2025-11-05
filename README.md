@@ -6,6 +6,7 @@ The objective is to uncover data-driven insights that can help improve marketing
 
 🧠 Objectives
 (i)Evaluate campaign response rates and conversion performance.
+
 (ii)Identify top-performing campaigns and customer demographics.
 (iii)Assess ROI across income segments and spending categories.
 (iv)Provide actionable recommendations to improve future campaigns.

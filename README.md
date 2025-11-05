@@ -56,8 +56,6 @@ The dataset includes demographic, financial, and campaign data for customer anal
 
 (ii)Wines (50.17%) and Meat (27.56%) are top spending categories.
 
-(iii)Opportunity to improve engagement among low and very-high income groups.
-
 4️⃣ Yearly Trend
 
 (i)2013 → Highest acquisition year
@@ -75,6 +73,10 @@ The dataset includes demographic, financial, and campaign data for customer anal
 (iv)Introduce seasonal or loyalty-based promotions for wine products.
 
 (v)Focus on married customers (age 30–45) with personalized campaigns.
+
+(iii)Opportunity to improve engagement among low and very-high income groups.
+
+![Marketing_Campaign_Dashboard](https://github.com/user-attachments/assets/394c6cc9-f550-47f5-94f6-1439e6e29ae1)
 
 🧩 Tools & Technologies
 
